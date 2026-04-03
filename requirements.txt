@@ -1,0 +1,10 @@
+mesa>=3.0.0
+numpy
+pandas
+matplotlib
+networkx
+scipy
+seaborn
+pyyaml
+requests
+tqdm
